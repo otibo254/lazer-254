@@ -1,2 +1,2 @@
 # lazer-254
-My first Jaclang repository on Github.
+My first Jaclang repository on GitHub.
